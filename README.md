@@ -1,2 +1,2 @@
 # ny_taxi_rides_dphi
-DBT Project
+This is my DBT Cloud project for Data Engineer bootcamp from https://dphi.tech/
